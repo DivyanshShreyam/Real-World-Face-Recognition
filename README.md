@@ -28,8 +28,8 @@ The dataset was split into training and testing sets using the following indices
 Resulting shapes:
 - Training Features (X_train): (9573, 2622)
 - Testing Features (X_test): (1197, 2622)
-- Training Labels (y_train): (9573,)
-- Testing Labels (y_test): (1197,)
+- Training Labels (y_train): (9573, )
+- Testing Labels (y_test): (1197, )
 
 ### 3. Label Encoding
 - Labels were encoded using `LabelEncoder`.
